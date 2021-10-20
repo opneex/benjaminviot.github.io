@@ -1,7 +1,7 @@
 button{
    border-radius: 5px;
    color: #960FE3;
-   background-color: #F0E90C;
+   background-color: black;
    font-size: 21px;
    float: left;
    padding: 15px;
@@ -14,7 +14,7 @@ button{
 
 @media (hover: hover) {
   button:hover {
-    background: red;
+    background: yellow;
   }
 }
 
